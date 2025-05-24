@@ -2,9 +2,10 @@ body {
     font-family:  "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     color: #333333;
 }
-h1 {
+.mirror {
     background-image: url('../imgs/sobre-background.jpg');
     padding: 10px;
+    border-bottom: none;
 }
 h2 {
     border-bottom:  2px solid #333333;
